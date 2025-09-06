@@ -6,6 +6,9 @@ Data visualization, and analysis.
 The goal of this project is to:
 
 -Analyze room types, prices, and availability across different neighborhoods.
+
 -Understand host behavior and listing patterns.
+
 -Discover potential outliers in prices.
+
 -Provide recommendations for guests  based on insights.
